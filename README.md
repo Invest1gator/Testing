@@ -7,5 +7,5 @@ Contacted to Discord support team and forwarded other private security issues wh
 
 
 A GUI Login test,
-A Boundar test on taxes.
+A Boundary test on taxes.
 
